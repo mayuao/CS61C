@@ -9,7 +9,7 @@
 - [ ] lab06
 - [ ] lab07
 - [ ] lab08
-- [ ] lab09
+- [x] lab09
 - [ ] lab10
 ---
 - [ ] proj1
