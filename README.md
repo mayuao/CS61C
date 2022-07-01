@@ -1,7 +1,7 @@
 # CS61C
 (Spring 2022)
 
-- [ ] lab01
+- [x] lab01
 - [ ] lab02
 - [ ] lab03
 - [ ] lab04
